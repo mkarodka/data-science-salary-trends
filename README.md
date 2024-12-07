@@ -24,9 +24,11 @@ To answer the question: *How do experience level, geography, company size, and r
 - **Dataset**: [Kaggle DS Salaries Dataset](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
 
 ## Key Findings
-- Senior-level roles in the US offer the highest median salaries.
-- Remote work increases salaries, especially in fully remote roles in developed regions.
-- Leadership roles provide the highest compensation globally.
+- **Top Regions for Salaries**: Senior-level roles in the United States lead with the highest salaries, exceeding $150K annually, followed by Europe and Canada. Emerging regions like India and Southeast Asia have significantly lower pay for similar roles.
+- **Remote Work Trends**: Fully remote roles offer higher salaries in developed markets like the US and Europe, while emerging markets show less salary differentiation based on remote flexibility.
+- **Job Categories**: Leadership roles and ML/AI specialists consistently rank as the highest-paid positions globally, with the US leading in both categories.
+- **Company Size**: Salaries increase significantly with company size, particularly in the US and Europe. Emerging markets show smaller differences in pay based on company size.
+- **Regional Trends**: The US and Europe have more evenly distributed salary ranges, reflecting mature job markets, whereas India and Southeast Asia have larger gaps between entry-level and senior roles, indicating emerging market dynamics.
 
 ## How to Run the Analysis
 1. Clone this repository to your local machine.
@@ -34,13 +36,6 @@ To answer the question: *How do experience level, geography, company size, and r
 3. Open the `Salary_Trends_Across_Globe.R` script in RStudio.
 4. Run the script line by line to reproduce the analysis and visualizations.
 5. The generated plots can be saved as PDFs and used for presentations.
-
-## Results
-- **Top Regions for Salaries**: Senior-level roles in the United States lead with the highest salaries, exceeding $150K annually, followed by Europe and Canada. Emerging regions like India and Southeast Asia have significantly lower pay for similar roles.
-- **Remote Work Trends**: Fully remote roles offer higher salaries in developed markets like the US and Europe, while emerging markets show less salary differentiation based on remote flexibility.
-- **Job Categories**: Leadership roles and ML/AI specialists consistently rank as the highest-paid positions globally, with the US leading in both categories.
-- **Company Size**: Salaries increase significantly with company size, particularly in the US and Europe. Emerging markets show smaller differences in pay based on company size.
-- **Regional Trends**: The US and Europe have more evenly distributed salary ranges, reflecting mature job markets, whereas India and Southeast Asia have larger gaps between entry-level and senior roles, indicating emerging market dynamics.
 
 - ## Future Scope
 - **Economic Factors**: Integrate regional economic indicators like GDP, cost of living, and tax rates to provide context for salary trends and disparities across markets.
