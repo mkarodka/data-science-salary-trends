@@ -36,9 +36,19 @@ To answer the question: *How do experience level, geography, company size, and r
 5. The generated plots can be saved as PDFs and used for presentations.
 
 ## Results
-- **Top Regions for Salaries**: Senior-level roles in the US have the highest median salaries, exceeding $150K annually.
-- **Remote Work Trends**: Fully remote roles tend to offer higher compensation, especially in the US.
-- **Job Categories**: Leadership roles and ML/AI specialists consistently rank as the highest-paid positions globally.
+- **Top Regions for Salaries**: Senior-level roles in the United States lead with the highest salaries, exceeding $150K annually, followed by Europe and Canada. Emerging regions like India and Southeast Asia have significantly lower pay for similar roles.
+- **Remote Work Trends**: Fully remote roles offer higher salaries in developed markets like the US and Europe, while emerging markets show less salary differentiation based on remote flexibility.
+- **Job Categories**: Leadership roles and ML/AI specialists consistently rank as the highest-paid positions globally, with the US leading in both categories.
+- **Company Size**: Salaries increase significantly with company size, particularly in the US and Europe. Emerging markets show smaller differences in pay based on company size.
+- **Regional Trends**: The US and Europe have more evenly distributed salary ranges, reflecting mature job markets, whereas India and Southeast Asia have larger gaps between entry-level and senior roles, indicating emerging market dynamics.
+
+- ## Future Scope
+- **Economic Factors**: Integrate regional economic indicators like GDP, cost of living, and tax rates to provide context for salary trends and disparities across markets.
+- **Expanded Analysis**: Include demographic factors such as gender, education level, and industry type to deepen insights into salary trends.
+- **Time-Series Data**: Extend the analysis with more recent datasets to capture salary trends in the post-pandemic era.
+- **Predictive Modeling**: Implement machine learning models to predict salaries based on variables like experience level, geography, and remote work setup.
+- **Cross-Dataset Comparisons**: Compare this dataset with other publicly available salary datasets to identify broader global trends.
+- **Interactive Dashboards**: An interactive Tableau dashboard has already been developed for dynamic exploration of the data. You can access it here: [Salary Analysis Tableau Dashboard](https://github.com/mkarodka/Salary-Analysis-Tableau).
 
 ## Authors
 - **Mugdha Karodkar**
