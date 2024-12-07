@@ -48,7 +48,7 @@ To answer the question: *How do experience level, geography, company size, and r
 
 ## Authors
 - **Mugdha Karodkar**
-- **Course**: IST 719: Information Visualization
+- **Course**: IST 719: Information Visualization(Syracuse University)
 - **Instructor**: Professor Raj Dewan
 
 ## Acknowledgments
