@@ -5,8 +5,8 @@ This project analyzes global data science salary trends using a Kaggle dataset. 
 
 ## Contents
 - **Poster**: [Download the final poster](./Salary_Trend_Across_Globe_Dashboard.pdf)
-- **Dataset**: Kaggle dataset of data science salaries.
-- **R Code**: Script for data cleaning, analysis, and visualization.
+- **Dataset**: [ds_salaries.csv](./ds_salaries.csv)
+- **R Code**: [Salary_Trends_Across_Globe.R](./Salary_Trends_Across_Globe.R)
 
 ## Tools Used
 - **R**: ggplot2, tidyverse, patchwork
@@ -18,11 +18,6 @@ This project analyzes global data science salary trends using a Kaggle dataset. 
 - Remote work increases salaries, especially in fully remote roles in developed regions.
 - Leadership roles provide the highest compensation globally.
 
-## Project Files
-- **Poster**: `Salary_Trend_Across_Globe_Dashboard.pdf`
-- **Dataset**: `ds_salaries.csv`
-- **R Script**: `Salary_Trends_Across_Globe.R`
-
 ## How to Use
 1. Clone this repository.
 2. Open `Salary_Trends_Across_Globe.R` in RStudio to replicate the analysis.
@@ -32,4 +27,3 @@ This project analyzes global data science salary trends using a Kaggle dataset. 
 - **Mugdha Karodkar**
 - **Course**: IST 719: Information Visualization
 - **Instructor**: Professor Raj Dewan
-
