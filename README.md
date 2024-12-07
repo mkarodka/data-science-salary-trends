@@ -3,6 +3,13 @@
 ## Overview
 This project analyzes global data science salary trends using a Kaggle dataset. It explores how factors such as experience level, company size, region, and remote work arrangements influence salaries. The analysis was conducted as part of the IST 719: Information Visualization course at Syracuse University.
 
+## Poster Preview
+Below is a preview of the final poster created for this project:
+
+![Poster Preview](./Salary_Trend_Across_Globe_Dashboard.jpg)
+
+For the full-resolution version, download the PDF: [Salary_Trend_Across_Globe_Dashboard.pdf](./Salary_Trend_Across_Globe_Dashboard.pdf)
+
 ## Contents
 - **Poster**: [Download the final poster](./Salary_Trend_Across_Globe_Dashboard.pdf)
 - **Dataset**: [ds_salaries.csv](./ds_salaries.csv)
