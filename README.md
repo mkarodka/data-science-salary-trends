@@ -48,7 +48,8 @@ To answer the question: *How do experience level, geography, company size, and r
 - **Time-Series Data**: Extend the analysis with more recent datasets to capture salary trends in the post-pandemic era.
 - **Predictive Modeling**: Implement machine learning models to predict salaries based on variables like experience level, geography, and remote work setup.
 - **Cross-Dataset Comparisons**: Compare this dataset with other publicly available salary datasets to identify broader global trends.
-- **Interactive Dashboards**: An interactive Tableau dashboard has already been developed for dynamic exploration of the data. You can access it here: [Salary Analysis Tableau Dashboard](https://github.com/mkarodka/Salary-Analysis-Tableau).
+- **Interactive Dashboards**: An interactive Tableau dashboard has already been developed for dynamic exploration of the data. You can access it on [GitHub](https://github.com/mkarodka/Salary-Analysis-Tableau) or directly view it on [Tableau Public](https://public.tableau.com/app/profile/mugdha.karodkar8566/viz/Salary_Analysis_Tableau_Dashboard/Salary_Analysis_Tableau_Dashboard).
+
 
 ## Authors
 - **Mugdha Karodkar**
