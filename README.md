@@ -31,10 +31,10 @@ To answer the question: *How do experience level, geography, company size, and r
 - **Regional Trends**: The US and Europe have more evenly distributed salary ranges, reflecting mature job markets, whereas India and Southeast Asia have larger gaps between entry-level and senior roles, indicating emerging market dynamics.
 
 ## Impact
-•  Built an interactive Tableau dashboard with 7+ visualizations (heatmaps, violin plots, lollipop charts) using Kaggle datasets and R, improving salary trend analysis efficiency by 40%. 
-•  Explored how experience, company size, geography, and remote work impact salaries, identifying 20% higher salaries for remote roles in developed markets. 
-•  Implemented dynamic filters in Tableau for job titles and company locations, enhancing data exploration speed by 30%. 
-•  Provided data-driven salary insights using statistical analysis, KPI tracking, and BI techniques, helping professionals and companies make 15% more accurate compensation decisions.
+1. Built an interactive Tableau dashboard with 7+ visualizations (heatmaps, violin plots, lollipop charts) using Kaggle datasets and R, improving salary trend analysis efficiency by 40%.
+2. Explored how experience, company size, geography, and remote work impact salaries, identifying 20% higher salaries for remote roles in developed markets.
+3. Implemented dynamic filters in Tableau for job titles and company locations, enhancing data exploration speed by 30%.
+4. Provided data-driven salary insights using statistical analysis, KPI tracking, and BI techniques, helping professionals and companies make 15% more accurate compensation decisions.
 
 ## How to Run the Analysis
 1. Clone this repository to your local machine.
